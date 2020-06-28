@@ -7,9 +7,9 @@
 
 ## Prerequisites
 #### -windows Operating Syatem(2000 and above)
-#### -IDE use: NetBeans
-#### -java jdk-8
-#### -Backend: MySQL
+#### *IDE used: NetBeans
+#### *java jdk-8
+#### *Backend: MySQL
 
 
 
