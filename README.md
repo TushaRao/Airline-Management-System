@@ -1,6 +1,6 @@
 # DBMS Project
 ## Airline Management System
-![Logo](https://cdn3.vectorstock.com/i/1000x1000/78/72/blue-airplane-on-a-white-background-vector-4457872.jpg)
+![Logo](ttps://www.pngkey.com/detail/u2q8a9q8r5r5a9q8_airplane-aircraft-icon-vector-cartoon-plane-png/)
 #### Air Ticket booking and Management System is based on JAVA and MySql.This project is a computer-based ticket reservation system that holds the flight schedules and its fare tariffs,passenger reservations and ticket records.Although there are different systems that are being used currently by the airlines,this project is an attempt to make a better system and to understand the database management system and its application in a real-world scenario.
 
 ## Getting Started
