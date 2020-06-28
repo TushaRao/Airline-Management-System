@@ -6,10 +6,10 @@
 #### You need to install the required softwares mentioned in the prerequisites.Download or clone the repository into your local macine and you can get it up and running.
 
 ## Prerequisites
-#### -windows Operating Syatem(2000 and above)
-#### *IDE used: NetBeans
-#### *java jdk-8
-#### *Backend: MySQL
+#### windows Operating Syatem(2000 and above)
+#### IDE used: NetBeans
+#### java jdk-8
+#### Backend: MySQL
 
 
 
